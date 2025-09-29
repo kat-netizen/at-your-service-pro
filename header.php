@@ -55,5 +55,4 @@
 				)
 			);
 			?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
+		</nav></header><div id="content" class="site-content">
